@@ -5,7 +5,7 @@ import (
 
 	"golang.org/x/tools/go/analysis/analysistest"
 
-	"github.com/planetscale/enumcheck"
+	"github.com/planetscale/enumcheck/enumcheck"
 )
 
 func TestFromFileSystem(t *testing.T) {

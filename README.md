@@ -1,5 +1,7 @@
 # enumcheck
 
+> PlanetScale: Temporary fork of enumcheck due to Go module cache issues
+
 ***This is still a WIP, so exact behavior may change.***
 
 Analyzer for exhaustive enum switches.
@@ -7,7 +9,7 @@ Analyzer for exhaustive enum switches.
 To install:
 
 ```
-go install loov.dev/enumcheck@latest
+go install github.com/planetscale/enumcheck@latest
 ```
 
 This package reports errors for:
