@@ -1,4 +1,4 @@
-module loov.dev/enumcheck
+module github.com/planetscale/enumcheck
 
 go 1.12
 
